@@ -1,5 +1,5 @@
 <?php
-$path = parse_ini_file("Lab5.ini");
+$path = parse_ini_file("Lab.ini");
 $myXMLPath = $path['xmlPath'];
 
 if (isset($_GET['action']) && $_GET["action"] == "searchNames") {
