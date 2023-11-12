@@ -3,7 +3,7 @@
 <p align="center">
     Explore and review your favorite restaurants with our intuitive restaurant reviews website.
     <br>
-    <a href="http://restaurantreviews.rf.gd/index.html">[ Live Website ]</a>
+    <a href="restaurant-review.great-site.net">[ Live Website ]</a>
 </p>
 
 ## Project Overview
@@ -51,7 +51,7 @@ In the process of creating this website, we utilized the following skills:
 ## Get Started
 Feel free to explore the live website for a firsthand experience of the Restaurant Reviews website!
 
-For more details, visit the [Live website](http://restaurantreviews.rf.gd/index.html).
+For more details, visit the [Live website](restaurant-review.great-site.net).
 
 ## License
 This project is licensed under the YourLicenseName License - see the [LICENSE.md](LICENSE) file for details.
